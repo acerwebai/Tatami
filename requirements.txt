@@ -1,6 +1,6 @@
 imageio==2.5.0 
 moviepy==1.0.0 
-numpy==1.16.2 
+numpy==1.22.0 
 ffmpeg==1.4
 Pillow==6.0.0
 protobuf==3.6.1
